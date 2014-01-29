@@ -1,4 +1,6 @@
 groovy-snippets
 ===============
 
-Code snippets for groovy
+A repository of snippets to copy-paste when developing.
+
+(This is not a library, just a code sample repository)
